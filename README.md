@@ -31,4 +31,5 @@ Originalmente, esses dados foram produzidos para uma competição e os dados ori
 1. **Leitura_de_dados_e_inspecao_inicial.ipynb** => Dedicado a leitura dos dados via PySpark e SQL.
 2. **Análise Exploratória de Dados (1).ipynb** => Dedicado a exploração dos dados qualitativos e quantitativos.
 3. **Pré-Processamento (1).ipynb** => Dedicado a validação dos dados, Revisão de valores anômalos, Revisão de valores ausentes e inconsistências.
+4. **Pré-Processamento (2).ipynb** => Dedicado a criação de novas variáveis.
 
