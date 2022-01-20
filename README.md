@@ -29,3 +29,4 @@ Originalmente, esses dados foram produzidos para uma competição e os dados ori
 ## Arquivos
 
 1. **Leitura_de_dados_e_inspecao_inicial.ipynb** => Dedicado a leitura dos dados via PySpark e SQL.
+2. **Análise Exploratória de Dados (1).ipynb** => Dedicado a exploração dos dados qualitativos e quantitativos.
