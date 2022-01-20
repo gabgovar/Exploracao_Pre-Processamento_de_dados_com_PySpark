@@ -11,7 +11,7 @@ Você deve descompactar o arquivo .zip chamado (`arquivos_de_tabalho.zip`) diret
 
 Você também precisa instalar a biblioteca python **seaborn**. Esta biblioteca é instalada automaticamente ao executar a seguinte instrução do terminal:
 
-    pip instalar seaborn
+    pip install seaborn
 
 </div>
 
