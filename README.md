@@ -32,4 +32,4 @@ Originalmente, esses dados foram produzidos para uma competição e os dados ori
 2. **Análise Exploratória de Dados (1).ipynb** => Dedicado a exploração dos dados qualitativos e quantitativos.
 3. **Pré-Processamento (1).ipynb** => Dedicado a validação dos dados, Revisão de valores anômalos, Revisão de valores ausentes e inconsistências.
 4. **Pré-Processamento (2).ipynb** => Dedicado a criação de novas variáveis.
-
+5. **Análise Exploratória de Dados (2).ipynb** => Dedicado a exploração de relacionamento das variáveis.
